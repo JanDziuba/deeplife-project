@@ -1,5 +1,9 @@
 # DeepLife Project
 
+## Task 1: Data Analysis
+
+The data analysis code is provided in 'Task_1_DL4DS_Team_Project.ipynb', and a corresponding presentation is available in Task_1.pdf.
+
 ## Task 2: Baseline Techniques
 
 Find the solution in `Task_2_DL4DS_Team_Project.ipynb`. To use it:
@@ -18,10 +22,10 @@ Find the solution in `Task_2_DL4DS_Team_Project.ipynb`. To use it:
 
 Find the solution in `dl4ls-astir`. To use it:
 
-1. Install requirements
+1. **Install requirements**
 
-2. Put datasets in `data/train` directory and if needed adjust `TRAIN_DATA_PATH` and `TEST_DATA_PATH` variables
+2. **Put datasets in `data/train` directory and if needed adjust `TRAIN_DATA_PATH` and `TEST_DATA_PATH` variables**
 
-3. Run notebook
+3. **Run notebook**
 
 PS: we couldn't use astir installed from pip due to https://github.com/camlab-bioml/astir/issues/32 (astir had its latest release in 2021)
