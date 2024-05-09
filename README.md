@@ -2,7 +2,7 @@
 
 ## Task 1: Data Analysis
 
-The data analysis code is provided in 'Task_1_DL4DS_Team_Project.ipynb', and a corresponding presentation is available in Task_1.pdf.
+The data analysis code is provided in `Task_1_DL4DS_Team_Project.ipynb`, and a corresponding presentation is available in `Task_1.pdf`.
 
 ## Task 2: Baseline Techniques
 
