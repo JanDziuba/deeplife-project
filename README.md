@@ -26,6 +26,6 @@ Find the solution in `dl4ls-astir`. To use it:
 
 2. **Put datasets in `data/train` directory and if needed adjust `TRAIN_DATA_PATH` and `TEST_DATA_PATH` variables**
 
-3. **Run notebook**
+3. **Run notebook `dl4ls-astir/astir-notebook.ipynb`**
 
 PS: we couldn't use astir installed from pip due to https://github.com/camlab-bioml/astir/issues/32 (astir had its latest release in 2021)
